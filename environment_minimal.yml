@@ -1,0 +1,19 @@
+name: bilevel
+channels:
+  - plotly
+  - pytorch
+  - defaults
+dependencies:
+  - jupyter
+  - notebook
+  - plotly
+  - plotly-orca
+  - python=3.7.*
+  - pytorch
+  - torchvision
+  - matplotlib
+  - flake8
+  - scikit-image
+  - scipy
+  - psutil
+  - requests
