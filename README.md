@@ -1,7 +1,7 @@
 # Parametric Majorization for Data-Driven Energy Minimization Methods
 
 
-This is code for the paper titled "Parametric Majorization for Data-Driven Energy Minimization Methods". The experiments in section 4.2 and 4.3 are implemented in PyTorch, whereas the experiment in 4.1 is implemented in Matlab.
+This is code for the paper titled "Parametric Majorization for Data-Driven Energy Minimization Methods". The experiments in section 4.2 and 4.3 are implemented in PyTorch, whereas the experiment in 4.1 is implemented in Matlab [Code is being prepared right now].
 
 
 ## INSTALLATION:
