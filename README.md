@@ -63,6 +63,8 @@ https://github.com/meetshah1995/pytorch-semseg/
 
 https://github.com/fvisin/dataset_loaders
 
+https://github.com/cszn/DnCNN
+
 ## CONTACT
 If you have any questions or comments, just open an issue.
 Or write an email to ```jonas.geiping at uni-siegen.de``` or ```michael.moeller at uni-siegen.de ```.
