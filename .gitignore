@@ -9,7 +9,5 @@ __pycache__
 supp_notebooks
 checkpoints
 variants
-data/BSDS300/images/test
-data/BSDS300/images/test68
-data/BSDS300/images/train
-data/BSDS300/images/trainZhang
+*.png
+*.jpg
